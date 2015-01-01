@@ -18,3 +18,5 @@ Here’s a working list of things to record:
 - Safety success
 - Number of fouls
 - Number of “mistakes"
+
+If we can make recording real-time, it might also be nice to record average shot time.
